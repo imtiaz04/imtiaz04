@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/imtiaz04/imtiaz04/main/logo.png" width="140"/>
 </p>
 
-<h3 align="center">Senior DevOps Engineer | AWS | Azure | Terraform | Kubernetes | CI/CD</h3>
+<h3 align="center"> DevOps Engineer | AWS | Azure | Terraform | Kubernetes | CI/CD</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=2ea043&center=true&vCenter=true&lines=DevOps+Engineer;Cloud+Automation+Expert;Terraform+%7C+Kubernetes+%7C+AWS;CI%2FCD+Pipeline+Builder"/>
