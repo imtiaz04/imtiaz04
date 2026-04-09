@@ -5,48 +5,54 @@ Senior DevOps Engineer | AWS | Azure | Terraform | Kubernetes | CI/CD
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+DevOps+Engineer;Cloud+%7C+Automation+%7C+Platform;AWS+%7C+Azure+%7C+Terraform;Kubernetes+%7C+CI%2FCD+%7C+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Senior+DevOps+Engineer;Cloud+Automation+Specialist;AWS+%7C+Azure+%7C+Terraform;Kubernetes+%7C+CI%2FCD+%7C+DevOps" />
 </p>
 
 ---
 
-### About
+## 🚀 About
 
 DevOps Engineer specializing in cloud infrastructure, CI/CD automation, Kubernetes, and Infrastructure as Code.  
 Focused on building scalable, reliable, and production-ready platforms.
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,githubactions,jenkins,ansible,bash,git,python" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,githubactions,jenkins,ansible,bash,git,python&theme=dark" />
 </p>
 
 ---
 
-### Certifications
+## 🎓 Certifications
 
-AZ-900 • AZ-104 • AZ-400 • AI-900  
-AWS CLF-C02 • Terraform Associate
+<p>
+<img src="https://img.shields.io/badge/AZ--900-Azure-blue?style=flat-square&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/AZ--104-Azure%20Admin-0078D4?style=flat-square&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/AZ--400-DevOps-0078D4?style=flat-square&logo=azuredevops"/>
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI-purple?style=flat-square&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/AWS-CLF--C02-orange?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Terraform-Associate-844FBA?style=flat-square&logo=terraform"/>
+</p>
 
 ---
 
-### DevOps Pipeline
+## 🔄 DevOps Pipeline
 
 Code → Build → Test → Container → Deploy → Monitor
 
 <p>
-<img src="https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?style=flat-square&logo=githubactions"/>
-<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/AWS%20%7C%20Azure-Deploy-orange?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/AWS%20%7C%20Azure-Deploy-orange?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=imtiaz04&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -55,7 +61,7 @@ Code → Build → Test → Container → Deploy → Monitor
 
 ---
 
-### Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtiaz04&theme=tokyo-night&hide_border=true"/>
@@ -63,7 +69,7 @@ Code → Build → Test → Container → Deploy → Monitor
 
 ---
 
-### Connect
+## 🌐 Connect
 
 Portfolio  
 https://imtiaz04.github.io  
