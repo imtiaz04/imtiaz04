@@ -73,20 +73,26 @@ Focused on building scalable, reliable, and production-ready platforms.
 
 
 ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
+
 <a href="https://imtiaz04.github.io">
-<img src="https://img.shields.io/badge/Portfolio-2ea043?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-2ea043?style=for-the-badge"/>
 </a>
+
 <a href="https://www.linkedin.com/in/imtiazshaik-devops">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="https://github.com/imtiaz04">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.notion.so/">
-<img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
+
+<a href="https://www.notion.so/2f7800ad6dbe8084aef5ecd24c5bab6e?v=2f7800ad6dbe80daa5b6000c0d8c7419&source=copy_link">
+<img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion"/>
 </a>
+
 </p>
 ---
 
