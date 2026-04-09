@@ -71,7 +71,8 @@ Focused on building scalable, reliable, and production-ready platforms.
 
 ---
 
-# 🌐 Connect With Me
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://imtiaz04.github.io">
@@ -87,7 +88,6 @@ Focused on building scalable, reliable, and production-ready platforms.
 <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 </p>
-
 ---
 
 ⭐ From [imtiaz04](https://github.com/imtiaz04)
