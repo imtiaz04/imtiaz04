@@ -24,7 +24,7 @@ Focused on building scalable, reliable, and production-ready platforms.
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,cicd,aws,azure,docker,kubernetes,terraform,ansible,jenkins,python,promethius,Grafana"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,aws,azure,docker,kubernetes,terraform,ansible,jenkins,python,promethius,Grafana"/>
 </p>
 
 ---
