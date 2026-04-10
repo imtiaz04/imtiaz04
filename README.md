@@ -54,7 +54,7 @@ Focused on building scalable, reliable, and production-ready platforms.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=imtiaz04&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=imtiaz04&hide_border=true&border_radius=10&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=2EA043&dates=9BE9A8"/>
 </p>
 
 <p align="center">
